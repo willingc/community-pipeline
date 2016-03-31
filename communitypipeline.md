@@ -39,6 +39,11 @@ development guide as an example: https://docs.python.org/devguide/)
   (e.g. if labeled "duplicate", the issue will be automatically closed)
 - use the new github emoticon issue support and encode some semantics on it.
 
+## Mentorship mailing list
+- for new contributors to ask questions
+- less pressure than emailing the main mailing list (Python core one:
+  https://mail.python.org/mailman/listinfo/core-mentorship)
+
 ## Newsletter
 - recognizing maintainers and contributors in the newsletter
 - have a "maintainer of the month" (someone with commit bits) -- put a human
@@ -46,9 +51,3 @@ development guide as an example: https://docs.python.org/devguide/)
 - have a "contributor of the month" (someone without commit bits) -- recognize
   new contributors and nights-and-weekend contributors
 - including a list of new contributors
-
-## Mentorship mailing list
-- for new contributors to ask questions
-- less pressure than emailing the main mailing list (Python core one:
-  https://mail.python.org/mailman/listinfo/core-mentorship)
-
